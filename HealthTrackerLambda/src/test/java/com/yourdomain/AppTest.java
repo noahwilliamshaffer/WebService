@@ -1,8 +1,18 @@
-package com.yourdomain;
+package com.noahwilliamshaffer;
 
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+
+class UserRegistrationHandlerTest {
+    @Test
+    void testHandleRequest() {
+        // Test your handler here
+    }
+}
+
 
 /**
  * Unit test for simple App.
