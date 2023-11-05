@@ -1,4 +1,26 @@
-Two Part Project
+
+1. Personal Health Tracker with Health Coach:
+
+2. User Management: Secure registration and login system.
+Data Tracking: Features to log various health metrics (e.g., exercise, diet, sleep).
+Data Visualization: Graphs and charts to display health trends over time.
+Health Recommendations: Basic analysis of user data to provide health tips or alerts.
+ChatGPT Integration:
+
+3. Chatbot Interface: A chat interface within the application where users can ask health-related questions.
+Integration with AI Model: Backend integration with an AI model like OpenAI's GPT (I might use OpenAI API for this).
+Handling Responses: Presenting the AI's responses in a user-friendly manner.
+Backend Development:
+
+4. AWS Lambda & API Gateway: For serverless backend handling API requests.
+Database Integration: DynamoDB for storing user data and health metrics.
+Security and Compliance: Ensure data protection and possibly HIPAA compliance if dealing with sensitive health data.
+Frontend Development:
+
+5. React Application: Building a responsive user interface.
+Interactive Elements: Forms for data entry, visualization components, chat window.
+API Integration: Connecting with Ir backend for data retrieval and chat functionality.
+
 
 1. Setting Up my Serverless Backend on AWS --------------------------------------------------------------------------
 
