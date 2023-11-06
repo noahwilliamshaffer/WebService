@@ -39,7 +39,7 @@ Deploy my infrastructure to AWS using the CloudFormation template, which brings 
 5. Implement Version Control and CI/CD:
 Set up a CI/CD pipeline for automated deployment of my backend, integrating with my version control system.
 
-Test API Endpoints:
+6. Test API Endpoints:
 Test the deployed API endpoints to ensure they are working as expected.
 
 -----------------------------------------------------------------------------------------------------------------------
