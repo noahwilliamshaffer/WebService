@@ -1,4 +1,4 @@
-package com.noahshaffer.Function;
+package com.noahshaffer.functions;
 
 public class Function {
     
